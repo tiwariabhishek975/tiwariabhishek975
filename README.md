@@ -1,8 +1,8 @@
 # Hi there, I'm [Abhishek Tiwari (tiwariabhishek975)]! 👋
 
-👨‍💻 I'm a passionate [Software Developer] from [Varanasi].
+👨‍💻 I'm a passionate [Software Developer] from [Noida].
 
-🌱 I’m currently Pursuing My Masters in [MCA] I’m currently learning[Python & PHP]
+🌱 I’m Recently Completed My Masters in [MCA] I’m currently learning[Python & PHP]
 
 💼 I’m open to collaboration on [I'm a passionate software developer from Varanasi].
 
