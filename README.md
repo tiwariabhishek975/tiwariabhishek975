@@ -1,6 +1,6 @@
 # Hi there, I'm [Abhishek Tiwari (tiwariabhishek975)]! 👋
 
-👨‍💻 I'm a passionate [Software Developer] from [Noida].
+👨‍💻 I'm a passionate [Software Developer] from [Bangalore].
 
 🌱 I’m Recently Completed My Masters in [MCA] I’m currently learning[Python & PHP]
 
